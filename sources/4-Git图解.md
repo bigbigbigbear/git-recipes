@@ -1,6 +1,6 @@
 # Git 图解
 
-> BY 童仲毅（[geeeeeeeeek@github](https://github.com/geeeeeeeeek/git-recipes/)）
+> BY 童仲毅（[bigbigbigbear@github](https://github.com/bigbigbigbear/git-recipes/)）
 >
 > 这是一篇在[原文](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)基础上演绎的文章。原作者 [Mark Lodato](lodatom@gmail.com)，译者 [wych](ellrywych@gmail.com)。原文采用[创用 CC 姓名标示-非商业性-相同方式分享 3.0 美国授权条款](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)授权。
 
@@ -145,8 +145,8 @@
 
 同样有 `git rebase --interactive` 让你更方便的完成一些复杂操作，比如丢弃、重排、修改、合并提交。
 
-> 这篇文章是[**「git-recipes」**](https://github.com/geeeeeeeeek/git-recipes/)的一部分，点击 [**目录**](https://github.com/geeeeeeeeek/git-recipes/wiki/) 查看所有章节。
+> 这篇文章是[**「git-recipes」**](https://github.com/bigbigbigbear/git-recipes/)的一部分，点击 [**目录**](https://github.com/bigbigbigbear/git-recipes/wiki/) 查看所有章节。
 >
 > 如果你觉得文章对你有帮助，欢迎点击右上角的 **Star** :star2: 或 **Fork** :fork_and_knife:。
 >
-> 如果你发现了错误，或是想要加入协作，请参阅 [Wiki 协作说明](https://github.com/geeeeeeeeek/git-recipes/issues/1)。
+> 如果你发现了错误，或是想要加入协作，请参阅 [Wiki 协作说明](https://github.com/bigbigbigbear/git-recipes/issues/1)。
